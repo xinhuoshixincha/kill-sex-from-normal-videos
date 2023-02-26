@@ -9,7 +9,7 @@
 >
 > ……
 
-![license: MPL-2.0](https://img.shields.io/github/license/xinhuoshixincha/kill-sex-from-normal-videos) ![last commit](https://img.shields.io/github/last-commit/xinhuoshixincha/kill-sex-from-normal-videos) ![files count](https://img.shields.io/github/directory-file-count/xinhuoshixincha/kill-sex-from-normal-videos) ![repo size](https://img.shields.io/github/repo-size/xinhuoshixincha/kill-sex-from-normal-videos) ![language](https://img.shields.io/github/languages/count/xinhuoshixincha/kill-sex-from-normal-videos)
+[![license: MPL-2.0](https://img.shields.io/github/license/xinhuoshixincha/kill-sex-from-normal-videos)](./LICENSE) ![last commit](https://img.shields.io/github/last-commit/xinhuoshixincha/kill-sex-from-normal-videos) ![files count](https://img.shields.io/github/directory-file-count/xinhuoshixincha/kill-sex-from-normal-videos) ![repo size](https://img.shields.io/github/repo-size/xinhuoshixincha/kill-sex-from-normal-videos) ![language](https://img.shields.io/github/languages/count/xinhuoshixincha/kill-sex-from-normal-videos)
 
 <hr/>
 
@@ -35,7 +35,7 @@ git clone git@github.com:xinhuoshixincha/kill-sex-from-normal-videos.git
 
 #### 通过 release 直接下载文件
 
-1. TODO
+[![release](https://img.shields.io/github/v/release/xinhuoshixincha/kill-sex-from-normal-videos)](https://github.com/xinhuoshixincha/kill-sex-from-normal-videos/releases/tag/v1.0.0)
 
 ### 导入屏蔽词
 
@@ -43,11 +43,9 @@ git clone git@github.com:xinhuoshixincha/kill-sex-from-normal-videos.git
 
 ##### B站网页版
 
-TODO
+![导入教学图片1](./img/blbl-web-01.jpg) ![导入教学图片2](./img/blbl-web-02.jpg) 
 
-##### B站 PC 客户端
-
-TODO
+**手机客户端需要手动输入（使用文本文件），pc客户端暂未找到屏蔽词入口**
 
 <hr/>
 
