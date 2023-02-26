@@ -1,0 +1,10 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+# 规定使用井号'#'作为注释的开头
+# 文本匹配
+# 沙发
+# 板凳
+# 正则匹配 --- 前后使用斜杠 '/' 符号包围，斜杠间书写正则表达式
+# /.*沙.*发.*/

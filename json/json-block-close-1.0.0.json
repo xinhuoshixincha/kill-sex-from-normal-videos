@@ -1,0 +1,25 @@
+/*
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+ */
+[
+	/*
+		{
+			// 文本匹配，type 为 0
+			"type":0,
+			// 匹配词
+			"filter":"沙发",
+			// 是否默认开启
+			"opened":false
+		},
+		{
+			// 正则匹配，type 为 1
+			"type":1,
+			// 匹配词
+			"filter":".*沙.*发.*",
+			// 是否默认开启
+			"opened":false
+		}
+    */
+]
