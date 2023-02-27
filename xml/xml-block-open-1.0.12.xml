@@ -1,0 +1,76 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+<filters>
+	<!--
+		文本匹配，item 内容使用 t= 开头
+		<item enabled="true">
+			t= 沙发
+		</item>
+		正则匹配，item 内容使用 r= 开头
+		<item enabled="true">
+			r= .*沙.*发.*
+		</item>
+	-->
+	
+		
+	<!-- 场景：up 主说新房隔音效果不好，大声说话能听到。弹幕：细说大声说话 弹幕颜色：黄色 -->
+	<item enabled="true">
+		r= .*细说.*
+	<item/>
+	
+	<!-- 场景：up 主说新房隔音效果不好。弹幕：楼下能听到哼哼哈哈的声音。弹幕颜色：黄色 -->
+	<item enabled="true">
+		r= .*哼+哈+.*
+	<item/>
+
+	<!-- 场景：up 主说新房隔音效果不好。弹幕：白天没关系。弹幕颜色：黄色-->
+	<item enabled="true">
+		r= .*白天没关系.*
+	<item/>
+
+	<!-- 场景：up 主说新房隔音效果不好。弹幕：毕竟现在是两个人。弹幕颜色：黄色-->
+	<item enabled="true">
+		r= .*(毕竟)+.*(2|两|2个|两个)+人.*
+	<item/>
+
+	<!-- 场景：任何场景。弹幕：114514.弹幕颜色：各种颜色 -->
+	<item enabled="true">
+		r= .*(114514)+.*
+	<item/>
+
+	<!-- 场景：同上。弹幕：homo相关的句式。弹幕颜色：各种颜色 -->
+	<item enabled="true">
+		r= .*(homo)+.*
+	<item/>
+
+	<!-- 场景：up 交女朋友后搬到新房子。弹幕：有对象了就是不同。弹幕颜色：白色 -->
+	<item enabled="true">
+		r= .*有+(对象|女(朋友|友|票)|媳妇|妻子*)+(了)*就是不同.*
+	<item/>
+
+	<!-- 场景：up 展示可自动调节的床。弹幕：频率太慢了。弹幕颜色：黄色 -->
+	<item enabled="true">
+		r= .*频率太慢了.*
+	<item/>
+
+	<!-- 场景：up 提及本期搬家视频素材很长。弹幕：有没有付费的素材doge。弹幕颜色：黄色 -->
+	<item enabled="true">
+		r= .*有没有(付费|花钱)+的(素材|视频)*.*
+	<item/>
+
+	<!-- 场景：up 展示扫地机器人的远程摄像头功能。弹幕：赛博老王doge。弹幕颜色：白色 -->
+	<item enabled="true">
+		r= .*(老王)+.*
+	<item/>
+
+	<!-- 场景：up 提及本期搬家视频素材很长。弹幕："细说素材"。弹幕颜色：黄色-->
+	<item enabled="true">
+		r= \"+.*素材.*\"
+	<item/>
+
+	<!-- 场景：up 提及本期搬家视频素材很长。弹幕：《细说素材》。弹幕颜色：黄色 -->
+	<item enabled="true">
+		r= 《+.*素材.*》+
+	<item/>
+</filters>

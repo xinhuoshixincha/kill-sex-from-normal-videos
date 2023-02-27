@@ -1,0 +1,67 @@
+[
+	{
+		"type": 1,
+		"filter": ".*细说.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*哼+哈+.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*白天没关系.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*(毕竟)+.*(2|两|2个|两个)+人.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*(泰日天)+.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*(114514)+.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*(homo)+.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*有+(对象|女(朋友|友|票)|媳妇|妻子*)+(了)*就是不同.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*频率太慢了.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*有没有(付费|花钱)+的(素材|视频)*.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": ".*(老王)+.*",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": "\"+.*素材.*\"",
+		"opened": true
+	},
+	{
+		"type": 1,
+		"filter": "《+.*素材.*》+",
+		"opened": true
+	}
+]
