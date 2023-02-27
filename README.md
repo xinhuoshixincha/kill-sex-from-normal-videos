@@ -35,7 +35,7 @@ git clone git@github.com:xinhuoshixincha/kill-sex-from-normal-videos.git
 
 #### 通过 release 直接下载文件
 
-[![release](https://img.shields.io/github/v/release/xinhuoshixincha/kill-sex-from-normal-videos)](https://github.com/xinhuoshixincha/kill-sex-from-normal-videos/releases/tag/v1.0.0)
+[![release](https://img.shields.io/github/v/release/xinhuoshixincha/kill-sex-from-normal-videos)](https://github.com/xinhuoshixincha/kill-sex-from-normal-videos/releases/tag/v1.0.12)
 
 ### 导入屏蔽词
 
